@@ -6,6 +6,8 @@ Created on Sat May  6 12:18:47 2017
 
 Instalar OpenCV con Conda....es compatible con python3.5
 conda install -c https://conda.binstar.org/menpo opencv3
+# si no funciona usar
+conda install -c menpo opencv3 
 
 Si tienes  python 3.6
 conda install python=3.5
